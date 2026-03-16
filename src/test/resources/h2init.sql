@@ -10,4 +10,4 @@ CREATE TABLE person (
 
 -- init-data
 INSERT INTO person (id, name, email) VALUES (1, 'Alice', 'alice@example.com');
-INSERT INTO person (id, name, email) VALUES (2, 'Bobby',   'bob@example.com');
+INSERT INTO person (id, name, email) VALUES (2, 'Bob',   'bob@example.com');
