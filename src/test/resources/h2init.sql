@@ -9,5 +9,5 @@ CREATE TABLE person (
 
 
 -- init-data
-INSERT INTO person (id, name, email) VALUES (1, 'Alicia', 'alice@example.com');
+INSERT INTO person (id, name, email) VALUES (1, 'Alice', 'alice@example.com');
 INSERT INTO person (id, name, email) VALUES (2, 'Bob',   'bob@example.com');
